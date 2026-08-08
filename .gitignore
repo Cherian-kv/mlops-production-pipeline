@@ -1,3 +1,6 @@
 #ignore PYTORCH model weights
 *.pt
 *.pth
+
+# MLflow Tracking Directory
+mlruns/
