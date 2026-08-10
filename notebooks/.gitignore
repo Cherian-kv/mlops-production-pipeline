@@ -1,0 +1,3 @@
+#ignore PYTORCH model weights
+*.pt
+*.pth
